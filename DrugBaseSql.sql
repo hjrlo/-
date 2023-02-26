@@ -1,0 +1,14 @@
+USE DrugBase ;
+DROP TABLE IF EXISTS tb_User
+CREATE TABLE tb_User
+	(Name
+		CHAR(10)
+		NOT NULL
+		PRIMARY KEY
+	,Password
+		VARBINARY(128)
+		NOT NULL);
+INSERT tb_User
+	(Name,Password)
+	VALUES
+	('001',HASHBYTES('MD5','111'));

@@ -1,0 +1,12 @@
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\bin\Debug\DrugDataBase.exe.config
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\bin\Debug\DrugDataBase.exe
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\bin\Debug\DrugDataBase.pdb
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.csproj.AssemblyReference.cache
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.Connection.resources
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.Properties.Resources.resources
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.csproj.GenerateResource.cache
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.csproj.CoreCompileInputs.cache
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.exe
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.pdb
+C:\Users\000\source\repos\DrugDataBase\DrugDataBase\obj\Debug\DrugDataBase.Login.resources
